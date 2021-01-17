@@ -2,5 +2,10 @@
 github上操作
 这是develop分支的第一次操作
 新增2
+
 fun1(){
+}
+fun2(){
+}
+fun3(){
 }
